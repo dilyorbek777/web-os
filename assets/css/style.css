@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.flo{
+    left: 50%;
+    transform: translate(-50%);
+    display: flex;
+}
+
+.fle{
+    display: none;
+}

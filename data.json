@@ -1,0 +1,101 @@
+{
+    "icons": [
+        {
+            "name": "My PC",
+            "img":"/assets/media/my-pc.png"
+        },
+        {
+            "name": "Paint",
+            "img":"/assets/media/paint.png"
+        },
+        {
+            "name": "VS CODE",
+            "img":"/assets/media/vscode.png"
+        },
+        {
+            "name": "CS 1.6",
+            "img":"/assets/media/cs16.png"
+        },
+        {
+            "name": "Chrome",
+            "img":"/assets/media/chrome.png"
+        }
+    ],
+    "taskbar":[
+        {
+            "name": "Web os",
+            "img":"/assets/media/oslogo.png"
+        },
+        {
+            "name": "Explorer",
+            "img":"/assets/media/file-ex.png"
+        },
+        {
+            "name": "VS CODE",
+            "img":"/assets/media/vscode.png"
+        },
+        {
+            "name": "Paint",
+            "img":"/assets/media/paint.png"
+        },
+        {
+            "name": "Chrome",
+            "img":"/assets/media/chrome.png"
+        }
+    ],
+    "social":[
+        {
+            "name":"Instagram",
+            "img":"/assets/media/instagram.png"
+        },
+        {
+            "name":"Facebook",
+            "img":"/assets/media/facebook.png"
+        },
+        {
+            "name":"Meta",
+            "img":"/assets/media/meta.png"
+        },
+        {
+            "name":"Telegram",
+            "img":"/assets/media/telegram.png"
+        },
+        {
+            "name":"Twitter",
+            "img":"/assets/media/twitter.png"
+        },
+        {
+            "name":"Youtube",
+            "img":"/assets/media/youtube.png"
+        },
+        {
+            "name":"Whatsapp",
+            "img":"/assets/media/whatsapp.png"
+        },
+        {
+            "name":"Messanger",
+            "img":"/assets/media/messanger.png"
+        },
+        {
+            "name":"FireFox",
+            "img":"/assets/media/firefox.png"
+        }
+        ,
+        {
+            "name":"Chrome",
+            "img":"/assets/media/chrome.png"
+        },
+        {
+            "name":"CS 1.6 go",
+            "img":"/assets/media/cs16.png"
+        },
+        {
+            "name":"Clock",
+            "img":"/assets/media/clock.png"
+        },
+        {
+            "name":"Netflix",
+            "img":"/assets/media/netflix.png"
+        }
+    ]
+}
